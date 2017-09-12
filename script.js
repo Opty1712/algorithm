@@ -13,6 +13,7 @@ const findDigits = (arr) => {
     
     return prev;
   }, {});
+  
   return ret;
 }
 
